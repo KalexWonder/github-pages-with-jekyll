@@ -1,6 +1,6 @@
 ---
 title: "Discovering Brave"
-date: 2020-7-8
+date: 2020-07-08
 ---
 Hello world!
 It's been a long road for me to get here
