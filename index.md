@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+Hello, I'm Kalex and this is where I get to talk about all the things I love. Crypto, tech, music, nature and family are all fair game for my opinions. 
