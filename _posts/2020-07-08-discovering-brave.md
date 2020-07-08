@@ -1,5 +1,5 @@
 ---
-title: "How I Discovered the Brave Browser"
+title: "Discovering Brave"
 date: 2020-7-8
 ---
 Hello world!
